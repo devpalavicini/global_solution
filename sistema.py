@@ -1,4 +1,7 @@
-
+# Neighborhood Action Dashboard
+# Projeto acadêmico: acompanhamento simulado de ocorrências comunitárias.
+# Os dados são fictícios e ficam inicializados neste próprio arquivo.
+# Como executar: python src/sistema.py
 
 # ---------------------------- DADOS INICIAIS ----------------------------
 
