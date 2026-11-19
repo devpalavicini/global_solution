@@ -158,7 +158,7 @@ Dia 15 | OC012 | Status alterado de Em análise para Concluída.
 
 ## Vídeo
 
-Link do vídeo no YouTube:
+Link do vídeo no YouTube: https://youtu.be/8JyySgGka40
 
 ## Conclusões, limitações e aprendizados
 
